@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://github.githubassets.com/images/modules/open_graph/github-mark.png"/>
+<img src="https://static.addtoany.com/images/blog/github-icon.png"/>
  
 ### Hi there 👋, I'm Alok Kumar. I'm a Student of BCA. Welcome to my github page! <br>
  
