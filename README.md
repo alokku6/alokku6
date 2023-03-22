@@ -19,7 +19,7 @@
 
 
  
-### Hi there 👋, I'm Alok Kumar. I'm a Web Developer. Welcome to my github page! <br>
+### Hi there 👋, I'm Alok Kumar. I'm Full Stack Web Developer. Welcome to my github page! <br>
  
  
 🔭 *Currently working on*:  Articles that teach students and developers new-to-them technologies. Here are some examples of what I have been writing on: <br>
@@ -28,7 +28,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [CSS Flexbox](https://careerkarma.com/blog/css-flexbox/)<br>
 <!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [MongoDB vs PostgreSQL: what to consider when choosing a database](https://www.educative.io/blog/mongodb-versus-postgresql-databases)<br> -->
 🌱 *Currently Learning*: python and C++ DS and algo<br>
-- 🔭 I’m currently working on PHP Framework in Codeignter
+- 🔭 I’m currently working on PHP Framework in Codeignter and Laravel
 - 🌱 I’m currently learning React Js
 <!--🤔 *Looking for help*: I'm looking for help with trying to find my first software engineering job in this current job climate.<br>
 💬 Ask me about: how to mentor students, creating a portfolio site for you, or assistance with an application you are working on. <br>-->
